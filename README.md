@@ -1,7 +1,9 @@
-# Aplicación de node JS RESTWeb
 
-## Dev
+
+
+
+
+# Dev
 
 1. Clonar el .env.template y crear el .env
-2. ejecutar ```npm install```
-3. para iniciar ejecutar ```npm run dev```
+2. Ejecutar el comando ```docker compose up -d```
